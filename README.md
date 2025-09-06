@@ -6,6 +6,9 @@ Play against the computer and test your luck!
 ## 🚀 Live Demo  
 🔗 [Play the Game](https://jaytiwari2603.github.io/Rock-Paper-Scissors-Game/)  
 
+## 📸 Screenshot  
+![Game Screenshot](./ScreenshotOfTheProject.png)
+
 ## 🛠️ Features  
 - 🎯 User vs Computer gameplay  
 - 🎲 Randomized computer choices  
